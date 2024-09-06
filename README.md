@@ -1,0 +1,2 @@
+The Maze is a 3D maze exploration game where the player navigates through a labyrinthine environment. The game uses ray casting techniques to transform a 2D map into an immersive 3D world, providing a first-person perspective experience.
+Simple DirectMedia Layer (SDL2) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games, including Valve's award-winning catalog and many Humble Bundle games.
